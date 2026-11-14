@@ -1,7 +1,7 @@
 ---
 title: "Leukemia Gene Expression Analysis: ALL vs AML"
-author: "2021-ICT-119"
-date: "November 2026"
+author: "Samodya Samadini - 2021/ICT/119"
+date: "14 November 2026"
 output:
   html_document:
     toc: true
