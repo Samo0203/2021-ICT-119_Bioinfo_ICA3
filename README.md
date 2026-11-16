@@ -447,11 +447,3 @@ The project scripts, processed data files, result tables, and figures are includ
 5. RStudio. (n.d.). *RStudio IDE*. Posit Software, PBC. https://posit.co/products/open-source/rstudio/
 
 6. Wickham, H. (2016). *ggplot2: Elegant graphics for data analysis*. Springer. https://ggplot2-book.org/
-
-7. Wickham, H., François, R., Henry, L., Müller, K., & Vaughan, D. (n.d.). *dplyr: A grammar of data manipulation*. R package documentation. https://dplyr.tidyverse.org/
-
-8. Kolde, R. (n.d.). *pheatmap: Pretty heatmaps*. R package documentation. https://cran.r-project.org/package=pheatmap
-
-9. Slowikowski, K. (n.d.). *ggrepel: Automatically position non-overlapping text labels with ggplot2*. R package documentation. https://cran.r-project.org/package=ggrepel
-
-10. Xie, Y., Allaire, J. J., & Grolemund, G. (2018). *R Markdown: The definitive guide*. Chapman and Hall/CRC. https://bookdown.org/yihui/rmarkdown/
