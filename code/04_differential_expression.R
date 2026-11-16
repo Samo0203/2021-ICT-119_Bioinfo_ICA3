@@ -349,7 +349,6 @@ all_results$neg_log10_adj_p <- -log10(
 )
 
 # Select top 10 significant probes for labels
-# Select top 10 significant probes for labels
 top_labels <- head(
   significant_results[order(significant_results$adj.P.Val), ],
   10
