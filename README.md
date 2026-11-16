@@ -444,6 +444,4 @@ The project scripts, processed data files, result tables, and figures are includ
 
 4. R Core Team. (2026). *R: A language and environment for statistical computing*. R Foundation for Statistical Computing, Vienna, Austria. https://www.r-project.org/
 
-5. RStudio. (n.d.). *RStudio IDE*. Posit Software, PBC. https://posit.co/products/open-source/rstudio/
-
-6. Wickham, H. (2016). *ggplot2: Elegant graphics for data analysis*. Springer. https://ggplot2-book.org/
+5. Wickham, H. (2016). *ggplot2: Elegant graphics for data analysis*. Springer. https://ggplot2-book.org/
